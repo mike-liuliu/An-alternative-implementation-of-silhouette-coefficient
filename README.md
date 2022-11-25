@@ -1,1 +1,1 @@
-An alternative implementation of silhouette coefficient.
+An alternative implementation of silhouette score.
